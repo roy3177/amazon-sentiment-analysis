@@ -1,6 +1,5 @@
 # Sentiment Analysis of Amazon Product Reviews
 
-🌐 **[View Live Results Dashboard](https://roy3177.github.io/amazon-sentiment-analysis/)**
 
 This project performs sentiment analysis on Amazon product reviews using multiple approaches — from simple baselines to machine learning and neural network models.
 
