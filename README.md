@@ -1,7 +1,5 @@
 # Sentiment Analysis of Amazon Product Reviews
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
 This project performs sentiment analysis on Amazon product reviews using multiple approaches — from simple baselines to machine learning and neural network models.
 
 ## Dataset
