@@ -21,3 +21,6 @@ Logistic Regression and PyTorch FFNN achieved similar performance with F1-score 
 
 ## Author
 Roy Meoded
+
+
+/// SVM Checking 
